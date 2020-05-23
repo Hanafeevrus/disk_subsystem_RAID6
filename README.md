@@ -1,7 +1,7 @@
-# Raid6_disk_subsistem
+#### Raid6_disk_subsistem
 details about the Raid installation can be read [here](https://raid.wiki.kernel.org/index.php/RAID_setup)		
 This stand shows the installation of Raid6 with check.		
-# Raid6 assembly description in vagrantfile
+#### Raid6 assembly description in vagrantfile
    
 add disks to Vagrantfile		
 ```
